@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block title %} {{ summary.title }} {% endblock %}
+
+{% block body %}
+<main id="main" class="d-flex flex-nowrap bg-dark">
+
+
+	{% include "sidebar.html" %}
+	{% include "content.html" %}
+
+</main>
+
+{% endblock %}

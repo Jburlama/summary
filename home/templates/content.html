@@ -1,0 +1,10 @@
+<div class="container  p-3 vh-100 ">
+	<div class="card p-2 overflow-auto vh-100 bg-secundary-subtle">
+		<h4 class="card-title p-2">{{ summary.title }}</h4>
+		<a href="{{ summary.url }}"><h6 class="card-title p-2">{{ summary.url }}</h6></a>
+		<hr>
+	  	{% autoescape off %}
+	  		{{ summary.content }}
+	  	{% endautoescape %}
+	</div>
+</div>
