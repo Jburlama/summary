@@ -5,5 +5,9 @@ Python, Django, SQLite, HTMX
 
 
 
-https://github.com/user-attachments/assets/05c08906-42a1-42af-aa40-5ecb6ed4b23e
+
+
+
+
+https://github.com/user-attachments/assets/ca769712-e585-407e-a1dc-fb13fa2dc449
 
